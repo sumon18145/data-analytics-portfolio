@@ -1,5 +1,5 @@
 ---
-title: Sumon’s Data Analytics Portfolio
+title: Data Analytics Portfolio
 layout: default
 ---
 
