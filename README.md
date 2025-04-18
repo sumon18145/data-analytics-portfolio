@@ -1,3 +1,3 @@
-# NGO Impact Evaluation Report
+# Data Analytics Portfolio
 
-A client-facing dashboard and report analyzing program outcomes and impact indicators for an NGO.
+This portfolio showcases a blend of academic research, industry-focused projects, and freelance case studies in data analytics and statistics.
